@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(0, 5, 0);
+    color: white;
+}
+a{
+    margin-right: 150px;
+    color: rgb(242, 245, 245);
+}
+nav h1{
+    color: rgb(241, 73, 204);
+    font-size: 24px;
+}
+nav h2{
+    color: blueviolet;
+}
+.welcome {
+  font-size: 32px;       /* Make it bigger */
+  font-family: 'Arial';  /* Change the font */
+  font-weight: bold;     /* (Optional) Make it bold */
+}
